@@ -14,3 +14,4 @@ Lab work for Coding Café, FM102.
 - `lab4/` — git and github
 - `lab5/` - functions and file management
 - `lab6/` — data structures and csv files
+- `lab7/` — csvs n stuff
